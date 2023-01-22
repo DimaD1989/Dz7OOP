@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="738b707d-4155-40da-a097-a80ffdf561fa" name="Changes" comment="dz 6">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dz6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/controllers/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/model/FileOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/model/FileOperationImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/model/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/model/RepositoryFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/model/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/view/Commands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/view/ViewUser$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Dz6/Note/view/ViewUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/model/FileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/model/FileOperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/model/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/model/RepositoryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/model/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/view/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Note/view/ViewUser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KdoYNoFQf5UoQj9A4gCiMG8V02" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Idea/s5/OOP_Lesson5_MVC"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="738b707d-4155-40da-a097-a80ffdf561fa" name="Changes" comment="" />
+      <created>1674313870399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674313870399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz 6" />
+  </component>
+</project>
